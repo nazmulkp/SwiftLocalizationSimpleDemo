@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  SwiftLocalizationSimpleDemo
+
+  Created by Nazmul Hasan on 11/12/16.
+  Copyright © 2016 Nazmul Hasan. All rights reserved.
+*/
+"Message" = "আমি নিশ্চিত . এটা Localization.string ফাইল থেকে কাজ করছে";
